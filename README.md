@@ -1,1 +1,2 @@
-# Diabetes-Prediction-With-Machine-Learning-
+# Diabetes Prediction With Machine Learning
+This project focuses on predicting diabetes using real-life datasets and machine learning techniques. It involves data preprocessing, univariate and bivariate analysis to explore patterns and relationships in the dataset. The K-Means clustering algorithm is used for patient segmentation, with Elbow Method and Silhouette Score helping determine the optimal number of clusters. Additionally, a statistical summary aids in understanding key health indicators influencing diabetes. The goal is to build a reliable model that enhances early diabetes detection and supports better medical decision-making.
